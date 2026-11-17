@@ -1,0 +1,3 @@
+{ "name": "salesforce-integration-patterns", "private": true, "version": "1.0.0",
+  "scripts": { "test:unit": "sfdx-lwc-jest" },
+  "devDependencies": { "@salesforce/sfdx-lwc-jest": "^7.0.0" } }
